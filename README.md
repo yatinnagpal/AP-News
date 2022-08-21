@@ -1,3 +1,16 @@
+# How to run this application
+
+Go to the project folder using terminal by typing 
+
+cd AP-News
+
+And then run the project by typing
+
+npm start
+
+in the terminal
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
