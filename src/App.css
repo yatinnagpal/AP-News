@@ -1,0 +1,28 @@
+.App{
+  background-image: radial-gradient(circle, red, yellow, rgb(75, 228, 75));
+}
+.inner-container{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+}
+.outer-container{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title-1,.title-2{
+  font-family: 'Libre Baskerville', serif;
+  padding: 0;
+  margin:0;
+
+}
+.title-2{
+  padding-top:0px;
+  text-align: left;
+}
+.image{
+  margin-right: 10px;
+}
